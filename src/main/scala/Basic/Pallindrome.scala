@@ -1,0 +1,5 @@
+package Basic
+
+class Pallindrome {
+
+}
