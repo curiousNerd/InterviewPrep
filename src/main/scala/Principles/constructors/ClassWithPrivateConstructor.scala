@@ -1,4 +1,4 @@
-package Principles
+package Principles.constructors
 
 class ClassWithPrivateConstructor private(name: String, email: String, role: String)
 

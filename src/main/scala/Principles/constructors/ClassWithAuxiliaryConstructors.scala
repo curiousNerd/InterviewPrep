@@ -1,4 +1,4 @@
-package Principles
+package Principles.constructors
 
 class ClassWithAuxiliaryConstructors(val a: String, val b: String, var c: Int) {
 

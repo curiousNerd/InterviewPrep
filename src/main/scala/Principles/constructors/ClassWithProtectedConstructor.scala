@@ -1,4 +1,4 @@
-package Principles
+package Principles.constructors
 
 class ClassWithProtectedConstructor protected (val name: String, email: String, role: String)
 
