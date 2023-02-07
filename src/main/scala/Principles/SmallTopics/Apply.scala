@@ -2,7 +2,7 @@ package Principles.SmallTopics
 
 case class StudentCase(name: String, age: Int)
 
-val v1 = StudentCase("Anuja",12)
+val v1 = StudentCase("Anuja",1222)
 // this is equivalent to
 val v2 = StudentCase.apply("Anuja",10)
 
